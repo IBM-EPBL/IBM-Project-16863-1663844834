@@ -28,6 +28,7 @@
  <a href="https://github.com/IBM-EPBL/IBM-Project-16863-1663844834/tree/main/Assessments">Assignments</a><br>
  <a href="https://github.com/IBM-EPBL/IBM-Project-16863-1663844834/tree/main/Project_Design_and_Planning">Project Design & Planning</a><br>
  <a href=""></a><br>
+![retail](https://user-images.githubusercontent.com/90629060/192155520-1818cc7f-e4a4-4af7-81fd-50f117c78749.gif)
 
 
 
