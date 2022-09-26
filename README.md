@@ -16,10 +16,10 @@
  # ♣️PROJECT DESCRIPTION
  This dataset contains a lot of historical sales data of a Brazilian top retailer
 
- Basic Questions of every retailer : How much inventory should I carry?  Too much inventory means working capital costs, operational costs and a complex operation, lack   of inventory leads to lost sales, unhappy customers and a damaged brand.
+Inventory analysis helps you determine the right amount of stock to keep on-hand to fill demand while avoiding spending too much on inventory storage. Inventory is an asset on a balance sheet and represents the product a company plans to sell to its customers eventually
 
- This is why short-term forecasting is so important in the retail and consumer goods industry.
-
+ What is the purpose of store inventory?
+A store inventory is a record of all the items available for use in your daily business operations. The store inventory increases with purchases and decreases with sales or consumption. It is important to track changes in your inventory so you can evaluate business performance, set future plans or detect theft.
 # 🧑‍💻Technical Architecture:
  ![download](https://user-images.githubusercontent.com/72591359/190850546-9b1ba338-6a8a-4952-8afc-898e5faddd36.png)
  
@@ -28,6 +28,7 @@
  <a href="https://github.com/IBM-EPBL/IBM-Project-16863-1663844834/tree/main/Assessments">Assignments</a><br>
  <a href="https://github.com/IBM-EPBL/IBM-Project-16863-1663844834/tree/main/Project_Design_and_Planning">Project Design & Planning</a><br>
  <a href=""></a><br>
+![retail](https://user-images.githubusercontent.com/90629060/192155520-1818cc7f-e4a4-4af7-81fd-50f117c78749.gif)
 
 
 
